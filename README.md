@@ -1,2 +1,2 @@
-# hello-world
-Getting started with GitHub
+hello humans!!
+I like R and Statistics. 
