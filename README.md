@@ -1,2 +1,2 @@
-hello humans!!
-I like R and Statistics. 
+hello !!
+I like to analyse data. 
